@@ -6,6 +6,9 @@ build/
 captures/
 release/
 
+mobile/
+tv/
+
 .idea/
 *.iml
 
